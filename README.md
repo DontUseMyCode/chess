@@ -1,2 +1,2 @@
 # chess
-Simple chess game in open-gl
+Simple chess game in open-gl in C language.
